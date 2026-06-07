@@ -29,7 +29,7 @@ React + Next.js version of the weather app. The UI and behavior match the origin
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000), search for a city, and press Enter.
+4. Open local host, search for a city, and press Enter.
 
 ## Scripts
 
